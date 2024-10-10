@@ -60,6 +60,8 @@ Before contributing be sure to check out the [CONTRIBUTION](https://github.com/C
 Available Communication Channels:
 * [Slack](https://chatair.slack.com)
 
+* Some contribution
+
 # License
 
     Copyright 2019 Chat Air
